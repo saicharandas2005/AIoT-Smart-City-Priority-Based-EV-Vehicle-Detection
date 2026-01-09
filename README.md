@@ -42,17 +42,6 @@ Focuses on lightweight classification for edge devices and robust ensemble learn
 
 ---
 
-## 📂 Repository Structure
-
-```text
-├── 01_Object_Detection_Models/
-│   ├── YOLOv8_Training.ipynb        # Ultralytics YOLOv8 implementation
-│   ├── SSD300_VGG16.ipynb           # PyTorch SSD implementation
-│   └── RF_DETR_Transformer.ipynb    # Transformer-based detection
-├── 02_AIoT_Ensembles_and_ViT/
-│   ├── Feature_Extraction.ipynb     # EfficientNetB0 + PCA pipeline
-│   ├── Ensemble_Models_HCE_BEF.ipynb# XGBoost, CatBoost, LightGBM voting
-│   ├── Vision_Transformer_ViT.ipynb # ViT-B/16 Fine-tuning
-│   └── YOLOv11_Experiments.ipynb    # Latest YOLO architecture tests
 ├── datasets/                        # Scripts for Roboflow data download/prep
 └── assets/                          # Confusion matrices and results graphs
+
