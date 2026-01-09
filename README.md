@@ -42,6 +42,3 @@ Focuses on lightweight classification for edge devices and robust ensemble learn
 
 ---
 
-├── datasets/                        # Scripts for Roboflow data download/prep
-└── assets/                          # Confusion matrices and results graphs
-
